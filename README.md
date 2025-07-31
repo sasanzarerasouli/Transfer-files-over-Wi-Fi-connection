@@ -73,4 +73,23 @@ To ensure reliable file transfer over the local Wi-Fi network, the following con
 Developed by Sasan Zare  
 Version 2.0
 ---
+---
 
+The birth of this application comes with a story—and in the following section, I’ll be sharing that story with you.
+
+---
+# The Story
+
+In the world of medical imaging installation and after-sales service, every second counts. This Application was born out of the chaos of installing and licensing software for medical imaging devices in environments where technology often feels like an adversary. Picture this: you're at a remote hospital or clinic, tasked with setting up critical software on a computer. The catch? You need to send a system ID (a humble .txt file) to the vendor and receive license files (.dat and .key) in return. Sounds simple—until you realize there's no internet, barely any mobile signal, and your iPhone can't transfer files via cable.
+
+This was my reality. For years, I relied on makeshift solutions: using my iPhone's hotspot to connect to WhatsApp or Telegram's web versions, transferring files over shaky EDGE or GPRS connections. It worked—sometimes—but it was slow, unreliable, and a constant source of frustration. One day, while staring at yet another "No Internet Connection" error, an idea sparked: What if I could transfer files over Wi-Fi without needing an internet connection?
+
+That’s how This Application came to life. I set out to build a lightweight Windows application that could transfer files seamlessly between my iPhone and a computer using a local Wi-Fi network. No internet, no cables, just a USB Wi-Fi dongle and my iPhone’s hotspot. The goal was simple: make the process fast, reliable, and stress-free.
+
+Building This Application wasn’t without its hurdles. From figuring out how to establish a stable local network connection to optimizing the app for minimal resource usage, every step was a lesson in problem-solving. I wanted it to be plug-and-play—copy the app from a flash drive, plug in a Wi-Fi dongle, connect to the iPhone hotspot, and transfer files, even in the most remote locations. After countless late nights and iterations, This Application became exactly that: a tool that saves time and brings peace of mind.
+
+Now, wherever I go, This Application is my trusty companion. It’s not just about moving files; it’s about making critical installations smoother, ensuring medical professionals can focus on their work without tech headaches. Whether you’re in a high-tech hospital or a clinic with spotty signal, This Application is here to bridge the gap—one file at a time.
+
+Try it out, and let me know how it streamlines your workflow. Here’s to solving real-world problems with a bit of code and a lot of determination.
+
+If you have any ideas to improve or enhance this application, feel free to share them with me. I’m all ears — I’ll do my best to build it for you and make it available!

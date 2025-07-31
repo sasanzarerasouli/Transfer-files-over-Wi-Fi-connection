@@ -19,7 +19,7 @@ A lightweight and efficient cross-platform desktop application for transferring 
 
 ## Requirements
 
-- Python 3.9 or higher
+- Python 3.3 or higher
 - Required dependencies:
   ```bash
   pip install flask pyqt6
@@ -30,10 +30,7 @@ A lightweight and efficient cross-platform desktop application for transferring 
 ## Usage
 
 1. Clone the repository or download the source files.
-2. Run the main script:
-   ```bash
-   python wifi_transfer.py
-   ```
+2. Run the application:  
 3. In the GUI:
    - Click "Select Folder" to specify a directory for uploaded files.
    - Click "Start Server" to initialize the Flask server.

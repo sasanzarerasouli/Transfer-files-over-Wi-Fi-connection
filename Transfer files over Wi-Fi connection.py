@@ -389,6 +389,7 @@ def main():
     app = QApplication(sys.argv)
     window = DarkModernApp()
     window.show()
+    version = 2.0
     sys.exit(app.exec())
 
 if __name__ == "__main__":

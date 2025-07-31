@@ -41,8 +41,8 @@ A lightweight and efficient cross-platform desktop application for transferring 
 
 4. From another device on the same Wi-Fi network:
    - Open a browser and navigate to:
-     - Upload page: `http://<your-ip>:8000`
-     - Download page: `http://<your-ip>:8000/browse`
+     - Upload page: `<your-ip>:8000`
+     - Download page: `<your-ip>:8000/browse`
 
 ---
 
@@ -93,4 +93,4 @@ Now, wherever I go, This Application is my trusty companion. It’s not just abo
 Try it out, and let me know how it streamlines your workflow. Here’s to solving real-world problems with a bit of code and a lot of determination.
 
 ---
-## If you have any ideas to improve or enhance this application, feel free to share them with me. I’m all ears — I’ll do my best to build it for you and make it available. Let’s combine creativity, ingenuity, and a whole lot of determination to solve real-world problems, one line of code at a time."
+### If you have any ideas to improve or enhance this application, feel free to share them with me. I’m all ears — I’ll do my best to build it for you and make it available. Let’s combine creativity, ingenuity, and a whole lot of determination to solve real-world problems, one line of code at a time.
